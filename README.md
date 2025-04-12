@@ -15,8 +15,6 @@ This is a complete end-to-end project, and we'll be using web scraping, data cle
 
 ## Code
 
-You can find the code for this project [here](https://github.com/dataquestio/project-walkthroughs/tree/master/nba_games)
-
 File overview:
 
 * `get_data.ipynb` - download the box scores from basketball reference.
